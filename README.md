@@ -1,2 +1,2 @@
 # OJT-Traning
-SpringBoot＋Themeleaf＋Mysql
+SpringBoot＋Vue＋Mysql
