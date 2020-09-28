@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    username: docker
+    password: docker
+    url: jdbc:postgresql://localhost:5432/study
+    driver-class-name: org.postgresql.Driver
+    #schema:
+    #  - classpath:sql/department.sql
+    # - classpath:sql/employee.sql
+
+
+mybatis:
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath*:com/java/mall/study/repository/*.xml
