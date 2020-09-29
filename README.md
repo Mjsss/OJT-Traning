@@ -1,2 +1,2 @@
 # OJT-Traning
-SpringBoot＋Vue＋Mysql
+SpringBoot＋Vue＋Postgres
