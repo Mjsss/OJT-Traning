@@ -9,7 +9,7 @@
         SELECT
             empId AS empId,
             empName AS empName
-         FROM employee;
+         FROM batch.employee;
     </select>
 
 </mapper>

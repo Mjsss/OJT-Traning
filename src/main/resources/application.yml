@@ -6,6 +6,7 @@ spring:
     username: docker
     password: docker
     url: jdbc:postgresql://localhost:5432/study
+    #schema: batch
     driver-class-name: org.postgresql.Driver
     #schema:
     #  - classpath:sql/department.sql
